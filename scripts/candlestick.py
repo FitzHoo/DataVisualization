@@ -6,7 +6,7 @@ from datetime import datetime
 
 import rqdatac
 
-rqdatac.init('rice', 'rice', ('192.168.0.225', 16010))
+rqdatac.init('****', '****', ('****', ****))
 from rqdatac import *
 
 from bokeh.models import ColumnDataSource, HoverTool, Panel, CheckboxGroup, Select, DatePicker, TextInput, Button, Tabs
